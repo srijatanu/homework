@@ -1,5 +1,0 @@
-1) what are semantic element? 
-Semantic elements explain the meaning clearly to both the browser and developer.
-Ex: instead of <div> and <span>, we can use alternatives as <from>, <table>, <article> and <img>.
-
-2) 
